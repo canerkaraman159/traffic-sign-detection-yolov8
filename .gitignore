@@ -1,0 +1,15 @@
+venv/
+.venv/
+env/
+
+traffic-sign-detection/
+*.zip
+
+runs/
+*.pt
+
+__pycache__/
+*.pyc
+.vscode/
+
+prediction_result.jpg
